@@ -1,6 +1,6 @@
 <body>
   <div id="The plot twist">
-  <h1> Ana is cute, and only a little bit gay</h1>
+  <h1> Ana is cute<br>and only a little bit gay</h1>
     <h2> She really is very sweet though </h2>
   </div>
   <div id=Mario>
