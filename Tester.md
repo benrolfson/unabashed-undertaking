@@ -4,5 +4,5 @@
     <h2> She really is very sweet though </h2>
   </div>
   <div id=Mario>
-  <h1> Mario is dope </h1>
+    <h1><em> Mario is dope</em> </h1>
     <p><span> fuck yeah </span> Mario is actually the sickest shit</p>
