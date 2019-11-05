@@ -9,3 +9,5 @@ Life is good and the living is easy
 </h1>
 </p>
 <p> Let's get ready to vibeeeee </p>
+<img src="https://vignette.wikia.nocookie.net/ferrisbueller/images/b/bd/Ferris.jpg/revision/latest?cb=20180112120829"
+<video>
